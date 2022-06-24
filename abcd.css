@@ -1,0 +1,35 @@
+
+ 
+button {
+    background-color:azure;
+    color:black;
+    border-radius: 3px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+#div1{
+    text-align:right ;
+    height: 50px;
+    width: 150px;
+    margin: 8px;
+    padding: 15px;
+    border-style: groove;
+    display:inline-block;
+}
+#div2{
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    margin: 8px;
+    padding: 15px;
+    border-style: groove;
+    display: inline-block;
+}
+#div3{
+    height: 50px;
+    width: 150px;
+    margin: 8px;
+    padding: 15px;
+    display:inline-block;
+    border-style: groove;
+}

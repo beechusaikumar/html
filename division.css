@@ -1,0 +1,62 @@
+body {
+    background-image: url("image9.jpg");
+    text-align: center;
+    height: 150px;
+}
+
+h1 {
+    color: brown;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+button {
+    background-color: white;
+    text-align: center;
+    color: blueviolet;
+    border-radius: 2px;
+}
+
+#div {padding: 20px;stroke-opacity: 10px;
+    margin: 20px;}
+
+
+
+
+
+
+#div1 {
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-style: groove;
+    margin: 50px;
+    display: inline-block;
+}
+
+#div2 {
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    display: inline-block;
+    border-style: groove;
+    margin: 50px;
+}
+
+#div3 {
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    display: inline-block;
+    border-style: groove;
+    margin: 50px;
+}
+
+#div4 {
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    display: inline-block;
+    border-style: groove;
+    margin: 50px;
+}
